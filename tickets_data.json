@@ -6,17 +6,17 @@
       {
          "type":"Balcony Level",
          "price":1170,
-         "quantity":120
+         "quantity":12
       },
       {
          "type":"Lower Level",
          "price":10438,
-         "quantity":200
+         "quantity":20
       },
       {
          "type":"Courtside ",
          "price":27777,
-         "quantity":150
+         "quantity":15
       }
    ]
 }
