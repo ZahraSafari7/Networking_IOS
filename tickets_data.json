@@ -1,0 +1,22 @@
+{
+   "version":"1",
+   "timestamp":"2020-11-21T20:38:43+0000",
+   "count":3,
+   "data":[
+      {
+         "type":"Balcony Level",
+         "price":1170,
+         "quantity":12
+      },
+      {
+         "type":"Lower Level",
+         "price":10438,
+         "quantity":20
+      },
+      {
+         "type":"Courtside ",
+         "price":27777,
+         "quantity":15
+      }
+   ]
+}
